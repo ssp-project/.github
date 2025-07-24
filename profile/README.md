@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ssp-project/.github/main/assets/ssp-logo.svg" alt="SecureShare Protocol Logo" height="120">
+  <img src="https://raw.githubusercontent.com/ssp-project/.github/profile/assets/ssp-logo.svg" alt="SecureShare Protocol Logo" height="120">
 </p>
 
 # Hi there 👋 &nbsp;Welcome to the **SSP Project** organization!
@@ -14,7 +14,7 @@ Think of it as a modern, zero-knowledge alternative to legacy systems like class
 2. **End-to-end confidentiality** – everything (content *and* metadata) is encrypted; operators can never read user data.  
 3. **Unified node model** – a single Rust binary can act as entry, storage, chat, or relay node, making deployment straightforward.  
 4. **Multi-platform clients** – desktop (Rust + egui) and Android (Kotlin) apps share a common core.  
-5. **Granular access control** – token-based roles (Owner → Admin → Moderator → Power / Standard / Read-Only / Guest).  
+5. **Granular access control** – token-based roles (Owner → Admin → Moderator → Power / Standard).  
 6. **Resilience & federation** – optional alliances between networks allow resource sharing, disaster recovery, and cross-search while maintaining independence.
 
 ---
@@ -44,7 +44,7 @@ _(Repositories will appear as they reach publish-ready state.)_
 ---
 
 ## 🌈 How to contribute right now
-1. ⭐ **Star** this org to follow progress.  
+1. 👤 **Follow** this org to stay updated on its progress.
 2. 🚀 Watch the `ssp-spec` repo and join discussions.  
 3. 🐛 Report issues or security concerns privately via `sspproject.org+team@gmail.com`.  
 4. 📚 Contribute to docs, diagrams, or translations—no Rust experience required!  
