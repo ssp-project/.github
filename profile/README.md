@@ -46,7 +46,7 @@ _(Repositories will appear as they reach publish-ready state.)_
 ## 🌈 How to contribute right now
 1. ⭐ **Star** this org to follow progress.  
 2. 🚀 Watch the `ssp-spec` repo and join discussions.  
-3. 🐛 Report issues or security concerns privately via `security@secureshare.io`.  
+3. 🐛 Report issues or security concerns privately via `sspproject.org+team@gmail.com`.  
 4. 📚 Contribute to docs, diagrams, or translations—no Rust experience required!  
 
 A full CONTRIBUTING.md (including style guides and DCO checklist) will be published before the first stable beta.
